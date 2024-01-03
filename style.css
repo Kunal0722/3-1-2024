@@ -8,7 +8,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background: url(./assets/purple-and-blue-background-2560-x-1440-qup4nmnfo2n2aq2v.jpg);
+    background: url(./assets/purple-and-blue-background-2560-x-1440-qup4nmnfo2n2aq2v.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     
